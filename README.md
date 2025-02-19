@@ -5,6 +5,13 @@ This repository showcases an HR Data Analytics project using Power BI. The goal 
 
 This project demonstrates the ability to analyze HR datasets and create interactive dashboards in Power BI, providing actionable insights for HR departments or organizations looking to improve employee retention, performance, and overall workforce management.
 
+# Dashboards & Visualizations
+
+<img width="771" alt="HR DASHBOARD" src="https://github.com/user-attachments/assets/5c7bcfd8-22d3-4d78-9cf9-0b64e2f1418a" />
+
+<img width="771" alt="HR DASHBOARD-1" src="https://github.com/user-attachments/assets/38b78455-f830-49f8-bf90-b7c80954115e" />
+
+
 # Technologies Used
 
 Power BI – For data analysis, visualization, and reporting.
@@ -30,11 +37,11 @@ Performance Analytics: Visualize employee performance data, performance trends b
 
 Salary Distribution: Analyze salary distribution across different demographics such as department, age, gender, and location.
 
-Diversity Analytics: Measure workforce diversity using gender, age, and ethnicity metrics.<img width="771" alt="HR DASHBOARD" src="https://github.com/user-attachments/assets/c4daa421-2ff6-4372-88a2-bec524856b9c" />
+Diversity Analytics: Measure workforce diversity using gender, age, and ethnicity metrics.
 
 
 Employee Retention Models: Use Power BI DAX to calculate retention rates and visualize trends.
-# Dashboards & Visualizations
+
 
 
 
