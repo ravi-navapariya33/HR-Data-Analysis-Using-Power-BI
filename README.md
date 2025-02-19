@@ -25,16 +25,17 @@ Datasets are available in the data/ folder as CSV files. You can also find exter
 # Project Features
 
 Attrition Analysis: Visualize employee attrition trends over time, attrition rates by department, and reasons for leaving.
+
 Performance Analytics: Visualize employee performance data, performance trends by department, and factors affecting performance.
+
 Salary Distribution: Analyze salary distribution across different demographics such as department, age, gender, and location.
-Diversity Analytics: Measure workforce diversity using gender, age, and ethnicity metrics.
+
+Diversity Analytics: Measure workforce diversity using gender, age, and ethnicity metrics.<img width="771" alt="HR DASHBOARD" src="https://github.com/user-attachments/assets/c4daa421-2ff6-4372-88a2-bec524856b9c" />
+
+
 Employee Retention Models: Use Power BI DAX to calculate retention rates and visualize trends.
-Dashboards & Visualizations
+# Dashboards & Visualizations
 
-The project includes the following interactive dashboards built using Power BI:
 
-Employee Attrition Dashboard: Displays attrition rates by department, job role, tenure, and reasons for leaving.
-Employee Performance Dashboard: Shows the distribution of employee performance, department performance, and potential areas for improvement.
-Salary & Compensation Dashboard: Allows users to filter salary data based on department, role, and other factors.
-Workforce Diversity Dashboard: Visualizes the demographic breakdown of employees by gender, ethnicity, and other characteristics.
-Overall HR Dashboard: A consolidated view of key HR metrics with slicers to drill down by department, region, and more.
+
+
