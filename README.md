@@ -9,7 +9,8 @@ This project demonstrates the ability to analyze HR datasets and create interact
 
 <img width="400" alt="HR DASHBOARD" src="https://github.com/user-attachments/assets/5c7bcfd8-22d3-4d78-9cf9-0b64e2f1418a" />
 
-<img width="400" alt="HR DASHBOARD-1" src="https://github.com/user-attachments/assets/38b78455-f830-49f8-bf90-b7c80954115e" />
+<img width="400" alt="Screenshot 2025-02-19 at 23 09 55" src="https://github.com/user-attachments/assets/f9287ff3-f82f-4bbc-9bf7-aa313a28a82c" />
+
 
 
 # Technologies Used
