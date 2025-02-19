@@ -1,28 +1,17 @@
 # HR-Data-Analysis-Using-Power-BI
-Project Overview
+# Project Overview
 
 This repository showcases an HR Data Analytics project using Power BI. The goal of this project is to leverage HR data to derive meaningful insights, track key performance indicators (KPIs), and visualize HR-related metrics such as employee attrition, performance analysis, salary distribution, and workforce diversity.
 
 This project demonstrates the ability to analyze HR datasets and create interactive dashboards in Power BI, providing actionable insights for HR departments or organizations looking to improve employee retention, performance, and overall workforce management.
 
-Table of Contents
-
-Overview
-Technologies Used
-Data Sources
-Project Features
-Dashboards & Visualizations
-Instructions
-Getting Started
-Contributing
-License
-Technologies Used
+# Technologies Used
 
 Power BI – For data analysis, visualization, and reporting.
 DAX – For creating calculated columns, measures, and KPIs.
 Excel/CSV – For data manipulation and import into Power BI.
 Power BI Service (optional) – For publishing reports to the web or sharing dashboards.
-Data Sources
+# Data Sources
 
 The data used in this project includes publicly available HR datasets. The datasets are fictionalized for the purpose of this demonstration, but they represent typical HR data that organizations would analyze.
 
@@ -33,7 +22,7 @@ Salary and Compensation: Salary distribution, bonuses, and department-based comp
 Diversity Metrics: Data about gender, ethnicity, and roles across departments.
 Datasets are available in the data/ folder as CSV files. You can also find external sources like the IBM HR Analytics dataset on Kaggle to build your own models.
 
-Project Features
+# Project Features
 
 Attrition Analysis: Visualize employee attrition trends over time, attrition rates by department, and reasons for leaving.
 Performance Analytics: Visualize employee performance data, performance trends by department, and factors affecting performance.
